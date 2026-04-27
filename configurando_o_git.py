@@ -17,3 +17,4 @@
 ## 16# git branch -r (Vai mostrar a branch localmente, caso apareça vermelho quer dizer que está certo)
 ## 17# git push -u origin main (Vai publicar no site)
 ## 18# git checkout feature/pe-548 (git checkout vai mudar de branch exemplo: git checkout feature/pe-548 ; caso vc esteja na main vai para a feature/pe-548)
+## 19# git push --set-upstream origin NOMEDABRANCH (vai deixar a branch local)
