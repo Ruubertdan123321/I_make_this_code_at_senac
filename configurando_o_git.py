@@ -10,3 +10,5 @@
 ## 10# git status (Mostra o status dos arquivo)
 ## 11# git add . (Faz isso apos fazer uma modificacao ou adicionar um arquivo novo, somente depois use commit)
 ## 12# git commit -m "mensagem" (Preparando o arquivo antes de enviar)
+## 13# Vá no site git hub e cria um novo repositorio (É preciso fazer isso antes de qualquer outra coisa de push)
+## 14# Vai em code e copia o HTTPS e coloca o comando no terminal > git remote add origin link
