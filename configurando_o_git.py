@@ -1,3 +1,4 @@
+## 0# git branch feature/pe-548 (feature/pe-548 = o nome da branch. É preciso criar uma branch antes de qualquer coisa)
 ## 1# pwd (Verifica onde esta localizado a pasta)
 ## 2# git config --global user.name "nome_do_git_aqui_dentro"  (Coloque o nome do git certinho)
 ## 3# git config --global user.email "prometheusamvs1@gmail.com" (mesmo email do git)
