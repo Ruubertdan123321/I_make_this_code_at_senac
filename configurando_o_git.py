@@ -12,3 +12,6 @@
 ## 12# git commit -m "mensagem" (Preparando o arquivo antes de enviar)
 ## 13# Vá no site git hub e cria um novo repositorio (É preciso fazer isso antes de qualquer outra coisa de push)
 ## 14# Vai em code e copia o HTTPS e coloca o comando no terminal > git remote add origin link
+## 15# git branch (Vai mostrar o arquivo main)
+## 16# git branch -r (Vai mostrar a branch localmente, caso apareça vermelho quer dizer que está certo)
+## 17# git push -u origin main (Vai publicar no site)
